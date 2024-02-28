@@ -12,6 +12,8 @@ frontend/coverage
 # production
 frontend/build
 
+# cache
+.eslintcache
 # misc
 .DS_Store
 .env.local
